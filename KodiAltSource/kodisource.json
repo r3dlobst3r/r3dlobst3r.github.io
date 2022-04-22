@@ -16,7 +16,7 @@
   ],
   "apps": [
     {
-      "name": "Kodi 19.3",
+      "name": "Kodi 18.9",
       "bundleIdentifier": "org.xbmc.kodi-ios",
       "developerName": "Team Kodi",
       "subtitle": "An Open Source Entertainment Center",
