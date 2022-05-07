@@ -16,7 +16,7 @@
   ],
   "apps": [
     {
-      "name": "Kodi 19.4",
+      "name": "Kodi Nightly",
       "bundleIdentifier": "org.xbmc.kodi-ios",
       "developerName": "Team Kodi",
       "subtitle": "An Open Source Entertainment Center",
